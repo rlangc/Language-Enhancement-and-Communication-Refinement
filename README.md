@@ -1,4 +1,4 @@
-### Repository Overview: Language Enhancement & Communication Refinement
+## Repository Overview: Language Enhancement & Communication Refinement
 
 This repository is a curated collection of language transformation guides designed to help individuals elevate their communication skills in both professional and everyday settings. It provides side-by-side comparisons that demonstrate how to replace basic, informal, or less effective phrases with more polished, impactful, and leadership-aligned alternatives.
 
